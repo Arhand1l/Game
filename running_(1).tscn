@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://cuclieq3sc8j8"]
+
+[ext_resource type="PackedScene" uid="uid://bytqv5rabveye" path="res://scenes/Running (1).fbx" id="1_lycwb"]
+
+[node name="Running (1)" unique_id=1195492423 instance=ExtResource("1_lycwb")]

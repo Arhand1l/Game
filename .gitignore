@@ -1,0 +1,14 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Editor settings
+*.import.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*~
